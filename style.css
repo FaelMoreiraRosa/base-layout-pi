@@ -1,0 +1,15 @@
+.cabecalho:cadastrese {
+    background-image: image(url(assets/cadastrese.png));
+}
+
+.barra {
+    height: 30px;
+    background-color: #564031;
+
+}
+
+.link {
+    color: #000000;
+    text-decoration: none;
+    display: inline;
+}
