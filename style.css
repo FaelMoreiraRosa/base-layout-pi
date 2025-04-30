@@ -1,10 +1,8 @@
-.cabecalho:cadastrese {
-    background-image: image(url(assets/cadastrese.png));
-}
 
 .collapse {
-    color: aliceblue;
-    background-color: sienna;
+    justify-content: center;
+    background-color: #564031;
+    color: #DDCCBA;
 }
 
 .carousel {
@@ -13,10 +11,53 @@
 }
 
 .navbar-brand {
-    color: aliceblue;
-    background-color: sienna;
+    background-color: #564031;
+    color: #DDCCBA;
 }
 
-nav {
-    color: aliceblue;
+.nav-link{
+    color: #DDCCBA;;
+}
+
+.imgs {
+    width: 50px;
+    height: 50px;
+}
+
+footer {
+	background-color: #DDCCBA;
+	color: #564031;
+	padding: 20px;
+	text-align: center;
+	margin-top: 435px;
+}
+
+ul {
+	list-style: none;
+    text-align: left;
+	padding: 0;
+	margin: 0;
+}
+
+li {
+	margin: 0 10px;
+}
+
+a {
+	color: #fff;
+	text-decoration: none;
+}
+
+.precabecalho {
+    text-align: justify;
+    display: flex;
+}
+
+.nav-item {
+    padding-left:30%;
+}
+
+.infos {
+    color: #564031;
+    text-decoration: none;
 }
