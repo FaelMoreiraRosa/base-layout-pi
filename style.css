@@ -29,7 +29,7 @@ footer {
 	color: #564031;
 	padding: 20px;
 	text-align: center;
-	margin-top: 435px;
+	margin-top: auto;
 }
 
 ul {
@@ -61,3 +61,4 @@ a {
     color: #564031;
     text-decoration: none;
 }
+
